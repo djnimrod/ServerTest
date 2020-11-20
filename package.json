@@ -1,0 +1,20 @@
+{
+  "name": "serverfrontend",
+  "version": "1.0.0",
+  "description": "server nodejs deploy angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "nodejs",
+    "deploy",
+    "angular"
+  ],
+  "author": "jimmy daniel - dajDev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
